@@ -8,7 +8,7 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/MoizHaider/MoizHaider/blob/main/icons8-html5-144.png" alt="HTM5" height="50" />  
+<img style="margin-right: 10px" src="https://github.com/MoizHaider/MoizHaider/blob/main/icons8-html5-144.png" alt="HTM5" height="50" />
 
 <img style="margin: 10px" src="https://github.com/MoizHaider/MoizHaider/blob/main/icons8-css3-100.png" alt="Css3" height="50" /> 
  
