@@ -7,14 +7,14 @@
 
 ### Frontend  
 <div align="center">  
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-html5-144.png" alt="HTM5" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-css3-100.png" alt="Css3" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-javascript-144.png" alt="JavaScript" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-react-js-144.png" alt="React" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-redux-144.png" alt="Redux" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-tailwindcss-144.png" alt="Tailwindcss" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-java-144.png" alt="Java" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/frontend/icons8-c-144.png" alt="C++" height="50" />  
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-html5-144.png" alt="HTM5" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-css3-100.png" alt="Css3" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-javascript-144.png" alt="JavaScript" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-react-js-144.png" alt="React" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-redux-144.png" alt="Redux" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-tailwindcss-144.png" alt="Tailwindcss" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-java-144.png" alt="Java" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/frontend/icons8-c-144.png" alt="C++" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -22,22 +22,22 @@
 
 ### Backend  
 <div align="center">  
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/backend/icons8-express-js-144.png" alt="Express" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/backend/icons8-nodejs-144.png" alt="Node.js" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/backend/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png" alt="Mongodb" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/backend/icons8-sql-64.png" alt="SQL" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/backend/icons8-firebase-144.png" alt="Firebase" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/backend/icons8-graphql-an-open-source-data-query-and-manipulation-language-for-api-96.png" alt="Graphql" height="50" />  
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/backend/icons8-express-js-144.png" alt="Express" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/backend/icons8-nodejs-144.png" alt="Node.js" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/backend/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.png" alt="Mongodb" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/backend/icons8-sql-64.png" alt="SQL" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/backend/icons8-firebase-144.png" alt="Firebase" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/backend/icons8-graphql-an-open-source-data-query-and-manipulation-language-for-api-96.png" alt="Graphql" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Designing  
 <div align="center">  
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/design/icons8-blender-100.png" alt="Blender" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/design/icons8-figma-144.png" alt="Figma" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/design/icons8-illustrator-144.png" alt="Illustrator" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/skillIcons/design/icons8-photoshop-144.png" alt="Photoshop" height="50" />  
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-blender-100.png" alt="Blender" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-figma-144.png" alt="Figma" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-illustrator-144.png" alt="Illustrator" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-photoshop-144.png" alt="Photoshop" height="50" />  
 </div>
 
 </td></tr></table>  
