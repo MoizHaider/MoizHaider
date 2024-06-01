@@ -57,20 +57,20 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/c9s" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/portfolio.png" width = "167px" height = "50px" alt=Portfolio style="margin-bottom: 5px;" />
+<a href="https://moizhaider-dev.vercel.app/" target="_blank">
+<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/portfolio.png" width = "155px" height = "38px" alt=Portfolio style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/c9s" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/facebook.png" width = "167px" height = "50px"  alt=Facebook style="margin-bottom: 5px;" />
+<a href="https://www.facebook.com/profile.php?id=61559539856542" target="_blank">
+<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/facebook.png" width = "155px" height = "38px"  alt=Facebook style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;
-<a href="https://dev.to/c9s" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/instagram.png" width = "167px" height = "50px"  alt=Instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/moiz_haider.dev/" target="_blank">
+<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/instagram.png" width = "155px" height = "38px"  alt=Instagram style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/lin-yo-an-51318026" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/twitter.png" width = "167px" height = "50px"  alt=Twitter style="margin-bottom: 5px;" />
+<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/twitter.png" width = "155px" height = "38px"  alt=Twitter style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/yoan.lin" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/linkedin.png" width = "167px" height = "50px"  alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/moiz-haider-dev/" target="_blank">
+<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/linkedin.png" width = "155px" height = "38px"  alt=linkedin style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;
 </div>  
 
