@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 163.36 239.62">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #8dd7f2;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 19.4px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="0" y="192.84" width="163.36" height="46.78" rx="23.39" ry="23.39"/>
+  <image width="144" height="144" transform="translate(30.7 201.44) scale(.21)" xlink:href="../../Downloads/icons8-twitter-144.png"/>
+  <text class="cls-3" transform="translate(63.7 223.39)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan x="8.87" y="0">wit</tspan><tspan class="cls-1" x="34.1" y="0">t</tspan><tspan x="40.41" y="0">er</tspan></text>
+</svg>

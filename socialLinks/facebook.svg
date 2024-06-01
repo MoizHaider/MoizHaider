@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 163.36 239.62">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #8dd7f2;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 19.4px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="0" y="68.1" width="163.36" height="46.78" rx="23.39" ry="23.39"/>
+  <image width="144" height="144" transform="translate(21.7 76.19) scale(.21)" xlink:href="../../Downloads/icons8-facebook-144.png"/>
+  <text class="cls-4" transform="translate(56.91 98.32)"><tspan class="cls-3" x="0" y="0">F</tspan><tspan x="8.57" y="0">a</tspan><tspan class="cls-1" x="17.93" y="0">c</tspan><tspan x="26.5" y="0">ebook</tspan></text>
+</svg>
