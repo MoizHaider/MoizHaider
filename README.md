@@ -1,4 +1,4 @@
-<img src="https://github.com/MoizHaider/MoizHaider/blob/master/topImage.png" />
+<img src="https://github.com/MoizHaider/MoizHaider/blob/master/topImagePlain.png" />
 
 <br/>
 
